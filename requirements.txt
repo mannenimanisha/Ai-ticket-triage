@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+datasets
+matplotlib
+notebook
+fastapi
+uvicorn
+python-dotenv
+openai
