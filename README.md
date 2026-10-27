@@ -74,12 +74,4 @@ git commit -m "Project setup"
 git push
 ```
 
-## Roadmap
 
-| Week | Dates | Work |
-|---|---|---|
-| 1 | Oct 27 – Nov 2 | Setup + dataset: download, explore, clean, split |
-| 2 | Nov 3 – Nov 9 | Baseline ML classifier + evaluation |
-| 3 | Nov 10 – Nov 16 | LLM classifier |
-| 4 | Nov 17 – Nov 23 | FastAPI system: routing, confidence, review queue, dashboard |
-| 5 | Nov 24 – Nov 30 | Experiments, error analysis, final report, presentation (Nov 30) |
